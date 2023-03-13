@@ -1,2 +1,2 @@
 #!/bin/bash 
--D tail -n 1 > ./iacta
+-D head -n 0 | tail -n 1 > ./iacta
