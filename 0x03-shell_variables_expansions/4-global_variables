@@ -1,3 +1,2 @@
 #!/bin/bash 
-name1="Hanadiii"
-value=200
+printenv
